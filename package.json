@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "hello world code",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AQadir64/HelloWorld.git"
+  },
+  "author": "AQadir64",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AQadir64/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/AQadir64/HelloWorld#readme"
+}
