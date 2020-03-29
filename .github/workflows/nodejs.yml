@@ -24,6 +24,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: node heloworld.js
+    - run: node helloWorld.js
       env:
         CI: true
